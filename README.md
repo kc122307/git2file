@@ -1,2 +1,2 @@
 # git2file
-this is my repistory.
+this is my repistory (r1).
